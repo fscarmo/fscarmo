@@ -23,10 +23,18 @@
 
 ### 📈 Minhas Estatísticas
 
-<div style="inline_block">
-  <img src="https://github-readme-stats-nine-neon-45.vercel.app/api?username=fscarmo&hide=issues,&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=true&line_height=24" />
-  <img src="https://github-readme-stats-nine-neon-45.vercel.app/api/top-langs/?username=fscarmo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&locale=pt-br" />
-</div>
+<table>
+  <tbody>
+    <tr align="center">
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=fscarmo&show_icons=true&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&locale=pt-br&hide_border=true&line_height=24" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-nine-neon-45.vercel.app/api/top-langs/?username=fscarmo&theme=transparent&show_icons=true&hide_border=true&layout=compact&locale=pt-br" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### 💻 Tetch Stack
